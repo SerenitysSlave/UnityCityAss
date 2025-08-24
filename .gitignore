@@ -13,6 +13,7 @@ UserSettings/
 # =============== #
 # Visual Studio   #
 # =============== #
+.vsconfig
 .vs/
 *.csproj
 *.unityproj
